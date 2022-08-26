@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Sterritt</h1>
-<h3 align="center">A passionate Full Stack Developer. My background is in Mechanical Engineering and Medical Device.</h3>
+<h3 align="center">A passionate and aspiring software engineer. My background is in Mechanical Engineering and Medical Device.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
