@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Sterritt</h1>
-<h3 align="center">A passionate software engineer, currently working towards a Master's in Computer Science (MCIT program) at University Of Pennsylvannia.</h3>
+<h3 align="center">A passionate software engineer, currently working towards a Master's in Computer Science at University Of Pennsylvannia (MCIT program).</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -8,6 +8,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> Java, Python, MATLAB, C, Pandas, Flask, googlemaps API</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psterritt5&" alt="psterritt5" /></p>
 
